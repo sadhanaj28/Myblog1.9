@@ -1,0 +1,308 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"my",
+				"my_id"
+			],
+			[
+				"P",
+				"ProductForm"
+			],
+			[
+				"query",
+				"queryset_list"
+			],
+			[
+				"quer",
+				"queryset_list"
+			],
+			[
+				"Post",
+				"PostManager"
+			],
+			[
+				"col",
+				"col-sm-offset-3"
+			],
+			[
+				"Blog",
+				"BlogPostSerializer"
+			],
+			[
+				"rert",
+				"return"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"n",
+				"new_slug"
+			],
+			[
+				"slug",
+				"slugify"
+			],
+			[
+				"pre",
+				"pre_save_post_receiver"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"post",
+				"post_list"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"post_",
+				"post_detail"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Workspace/django_project/myblog19/Scripts/activate",
+		"/C/Workspace/django_project/myblog19/Scripts/activate.bat",
+		"/C/Workspace/django_project/myblog19/Scripts/django-admin.py",
+		"/C/Workspace/django_project/myblog19/src/manage.py",
+		"/C/Workspace/django_project/myblog19/src/myblog19/__pycache__/m.sublime-project",
+		"/C/Workspace/django_project/myblog19/src/myblog19/settings.py",
+		"/C/Workspace/django_project/myblog19/src/myblog19/urls.py",
+		"/C/Workspace/django_project/myblog19/src/myblog19/wsgi.py",
+		"/C/Workspace/django_project/myblog19/blog.sublime-project",
+		"/C/Workspace/django_project/trydjango/src/blog/admin.py",
+		"/C/Workspace/django_project/trydjango/src/blog/views.py",
+		"/C/Workspace/django_project/trydjango/src/blog/urls.py",
+		"/C/Workspace/django_project/trydjango/src/pages/admin.py",
+		"/C/Workspace/django_project/trydjango/src/blog/models.py",
+		"/C/Workspace/django_project/trydjango/src/products/templates/products/product_list.html",
+		"/C/Workspace/django_project/trydjango/src/blog/templates/articles/article_list.html",
+		"/C/Workspace/django_project/trydjango/src/blog/templates/articles/article_detail.html",
+		"/C/Workspace/django_project/trydjango/src/blog/templates/article_detail.html",
+		"/C/Workspace/django_project/trydjango/src/blog/templates/article_list.html",
+		"/C/Workspace/django_project/trydjango/src/trydjango/settings.py",
+		"/C/Workspace/django_project/trydjango/src/products/urls.py",
+		"/C/Workspace/django_project/trydjango/src/products/models.py",
+		"/C/Workspace/django_project/trydjango/src/products/views.py",
+		"/C/Workspace/django_project/trydjango/src/trydjango/urls.py",
+		"/C/Workspace/django_project/trydjango/src/products/forms.py",
+		"/C/Workspace/django_project/trydjango/src/products/templates/products/product_detail.html",
+		"/C/Workspace/django_project/trydjango/src/products/templates/products/product_delete.html",
+		"/C/Workspace/django_project/trydjango/src/products/templates/products/products_create.html",
+		"/C/Workspace/django_project/trydjango/src/products/templates/products/products_details.html",
+		"/C/Workspace/django_project/trydjango/src/templates/product/details.html",
+		"/C/Workspace/django_project/trydjango/src/templates/home.html",
+		"/C/Workspace/django_project/trydjango/src/templates/base.html",
+		"/C/Workspace/django_project/trydjango/src/templates/contact.html",
+		"/C/Workspace/django_project/trydjango/src/templates/about.html",
+		"/C/Workspace/django_project/trydjango/src/pages/views.py",
+		"/C/Workspace/django_project/trydjango/src/templates/navbar.html",
+		"/C/Workspace/django_project/trydjango/src/products/admin.py",
+		"/C/Workspace/django_project/trydjango/src/manage.py",
+		"/C/Workspace/django_project/trydjango/trydjango.sublime-project",
+		"/C/Workspace/django_project/myblog19/src/posts/forms.py",
+		"/C/Workspace/django_project/myblog19/src/posts/models.py",
+		"/C/Workspace/django_project/myblog19/src/templates/post_detail.html",
+		"/C/Workspace/django_project/myblog19/src/templates/base.html",
+		"/C/Workspace/django_project/myblog19/src/templates/post_list.html",
+		"/C/Workspace/django_project/myblog19/src/posts/views.py",
+		"/C/Workspace/django_project/restapi/src/postings/api/tests.py",
+		"/C/Workspace/django_project/restapi/src/postings/api/views.py",
+		"/C/Workspace/django_project/restapi/src/postings/api/permissions.py",
+		"/C/Workspace/django_project/restapi/src/postings/views.py",
+		"/C/Workspace/django_project/restapi/src/restapi/settings.py",
+		"/C/Workspace/django_project/restapi/src/postings/api/serializers.py",
+		"/C/Workspace/django_project/restapi/src/postings/api/urls.py",
+		"/C/Workspace/django_project/restapi/src/postings/api/motes.md",
+		"/C/Workspace/django_project/restapi/src/postings/models.py",
+		"/C/Workspace/django_project/restapi/src/restapi/urls.py",
+		"/C/Workspace/django_project/restapi/src/postings/admin.py",
+		"/C/Workspace/django_project/restapi/src/postings/api/__init__.py",
+		"/C/Workspace/django_project/myblog19/src/posts/templatetags/urlify.py",
+		"/C/Workspace/django_project/myblog19/src/posts/templatetags/__init__.py",
+		"/C/Workspace/django_project/myblog19/src/templates/post_form.html",
+		"/C/Workspace/django_project/myblog19/src/static/css/base.css",
+		"/C/Workspace/django_project/myblog19/src/templates/index.html",
+		"/C/Workspace/django_project/myblog19/src/posts/admin.py",
+		"/C/Workspace/django_project/myblog19/src/db.sqlite3"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 107.2,
+		"where_history":
+		[
+			"C:\\Workspace\\django_project\\myblog19"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"myblog19"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"blog"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Workspace\\django_project\\myblog19"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
